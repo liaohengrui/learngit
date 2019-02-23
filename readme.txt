@@ -4,3 +4,4 @@ git has mutable index called stage
 git tracks changes of file
 test origin 
 creating a new branch is quick
+creating a new branch is quick and simple
